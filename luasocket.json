@@ -1,0 +1,11 @@
+{
+  "name": "Gitlib",
+  "version": "1.0.0",
+  "description": "Yet  github api lua library",
+  "keywords": [
+    "github",
+    "api",
+  ],
+  "author": "sudoskys",
+  "license": "MIT",
+}
