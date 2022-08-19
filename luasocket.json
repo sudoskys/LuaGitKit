@@ -6,6 +6,14 @@
     "github",
     "api",
   ],
+  
+  "file": {
+    "filemode":"filelist",
+    "list":[
+      "gitlib.lua",
+      "readme.md"
+    ],
+  },
   "author": "sudoskys",
   "license": "MIT",
 }
